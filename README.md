@@ -1,7 +1,7 @@
 # Smart Attendance Monitoring System Using Facial Recognition
 It is the MTECH Project using ML,DL and IP.
 
-For Demo Video of Project visit the Project of Portfolio : https://thoratamey1210.wixsite.com/portfolio
+For Demo Video of Project visit the Project Page in Portfolio : https://thoratamey1210.wixsite.com/portfolio
 ## Dataset
 Database Link: https://drive.google.com/drive/folders/1KXy7x28gK4F4JoPa39gMhvilBC6m9h9K?usp=drive_link
 ## Step for Implementing Project
