@@ -1,19 +1,23 @@
 # Smart Attendance Monitoring System Using Facial Recognition
 It is the MTECH Project using ML,DL and IP.
+
 For Demo Video of Project visit the Project of Portfolio : https://thoratamey1210.wixsite.com/portfolio
 ## Dataset
 Database Link: https://drive.google.com/drive/folders/1KXy7x28gK4F4JoPa39gMhvilBC6m9h9K?usp=drive_link
 ## Step for Implementing Project
 ### Step 1:
 Run the Project3.ipynb from Final Model Building Folder with the given the dataset above
+
 File of FaceNet Model and KNN model (pickle) will be created
 ### Step 2:
 Connect the KNN pickle file with application present from FRAS Folder 
+
 In that edit the path of file and folder present in app.py
 ### Step 3:
 Run the app.py after editing all path in it.
 ## Remaining Folder
 As it is MTECH Project the literature survey is done, the paper which are reviewed are in Reference Paper Folder
+
 All the Documentations done for review are in Written Paper + ... Folder
 ## Sample Output
 ![image](https://github.com/thoratamey/SmartAttendanceMonitoringSystemUsingFacialRecognition/assets/88768050/5a150e3e-f776-4897-a43f-c4ec46831564)
