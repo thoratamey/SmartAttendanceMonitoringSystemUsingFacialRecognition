@@ -1,4 +1,4 @@
-![image](https://github.com/thoratamey/SmartAttendanceMonitoringSystemUsingFacialRecognition/assets/88768050/f80934a1-a7bc-438d-944a-015ec31df754)# Smart Attendance Monitoring System Using Facial Recognition
+# Smart Attendance Monitoring System Using Facial Recognition
 It is the MTECH Project using ML,DL and IP.
 ## Dataset
 Database Link: https://drive.google.com/drive/folders/1KXy7x28gK4F4JoPa39gMhvilBC6m9h9K?usp=drive_link
@@ -16,15 +16,24 @@ As it is MTECH Project the literature survey is done, the paper which are review
 All the Documentations done for review are in Written Paper + ... Folder
 ## Sample Output
 ![image](https://github.com/thoratamey/SmartAttendanceMonitoringSystemUsingFacialRecognition/assets/88768050/5a150e3e-f776-4897-a43f-c4ec46831564)
+
 This Image is converting to the above images in data preprocessing stage in which human face is detected using sample mtcnn and convert it 166x166 only face images
+
 ![image](https://github.com/thoratamey/SmartAttendanceMonitoringSystemUsingFacialRecognition/assets/88768050/02609bd8-70df-4018-b5ea-d1d63372b69e)
+
 Above is the Screenshot of maximum accuracy of model using combinational dataset extracted from various kaggle and github repositories 
+
 ![image](https://github.com/thoratamey/SmartAttendanceMonitoringSystemUsingFacialRecognition/assets/88768050/022414fb-e8a5-4198-8dc5-68b12fd07f10)
 ### Output from Web Application
 Step 1:
 Adding New Student
+
 ![image](https://github.com/thoratamey/SmartAttendanceMonitoringSystemUsingFacialRecognition/assets/88768050/3eeffe51-efc9-44cc-b9d3-3aecae5a75a5)
+
 ![image](https://github.com/thoratamey/SmartAttendanceMonitoringSystemUsingFacialRecognition/assets/88768050/f5cf2c09-764f-4172-aad4-8fe0874c7a0a)
+
+Step 2:
 Marking Attendance
 ![image](https://github.com/thoratamey/SmartAttendanceMonitoringSystemUsingFacialRecognition/assets/88768050/0debb092-131a-4b1f-a007-f106ca5e4861)
+
 ![image](https://github.com/thoratamey/SmartAttendanceMonitoringSystemUsingFacialRecognition/assets/88768050/1ba7755d-2f1d-4a0a-8091-d0f987812661)
