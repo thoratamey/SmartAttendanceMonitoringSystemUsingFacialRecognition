@@ -26,9 +26,14 @@ This Image is converting to the above images in data preprocessing stage in whic
 
 ![image](https://github.com/thoratamey/SmartAttendanceMonitoringSystemUsingFacialRecognition/assets/88768050/02609bd8-70df-4018-b5ea-d1d63372b69e)
 
-Above is the Screenshot of maximum accuracy of model using combinational dataset extracted from various kaggle and github repositories 
+Above is the Screenshot of average accuracy of model using combinational dataset extracted from various kaggle and github repositories 
 
 ![image](https://github.com/thoratamey/SmartAttendanceMonitoringSystemUsingFacialRecognition/assets/88768050/022414fb-e8a5-4198-8dc5-68b12fd07f10)
+
+Updated accuracy of model
+
+![image](https://github.com/thoratamey/SmartAttendanceMonitoringSystemUsingFacialRecognition/assets/88768050/4224d434-1cef-4faa-92bb-7872581bc799)
+
 ### Output from Web Application
 Step 1:
 Adding New Student
